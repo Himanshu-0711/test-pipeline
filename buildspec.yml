@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "Installing dependencies (but we're doing nothing)"
+  build:
+    commands:
+      - echo "Building (but we're doing nothing)"
+  post_build:
+    commands:
+      - echo "Post-build (nothing happening here)"
